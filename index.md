@@ -1,5 +1,3 @@
-# Brandon J. Kessler
-
 Migrating from a full WordPress site to a static site. [BrandonJKessler.com](https://www.brandonjkessler.com/) will be moving here.
 
 
@@ -7,8 +5,8 @@ Migrating from a full WordPress site to a static site. [BrandonJKessler.com](htt
 
 
 {% for post in site.posts %}
+    <h3>{{ post.title }}</h3>
     {% if post.excerpt %}
-        ### {{ post.title }}
         {{ post.excerpt }}
     {% endif %}
 {% endfor %}
