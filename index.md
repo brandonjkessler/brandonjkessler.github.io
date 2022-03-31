@@ -3,9 +3,8 @@ Migrating from a full WordPress site to a static site. [BrandonJKessler.com](htt
 
 ## Posts
 
-
 {% for post in site.posts %}
-    <h3>{{ post.title }}</h3>
+    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
     {% if post.excerpt %}
         {{ post.excerpt }}
     {% endif %}

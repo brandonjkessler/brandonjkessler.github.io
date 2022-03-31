@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Is the Wii U worth it in 2019
-excerpt_separator: <!--more-->
 Author: Brandon J. Kessler
 tags: Games Hardware Nintendo Technology
 category: Opinion
 ---
 
-![Wii U Console](/assets/Wii_U_640px.png)
+# Is the Wii U worth it in 2019
+![Wii U Console](/assets/img/Wii_U_640px.png)
 
 The Wii U was released all the way back in 2012. The Nintendo Switch was released in 2017. Does it make sense, now in 2019, to get a Nintendo Wii U?
 
