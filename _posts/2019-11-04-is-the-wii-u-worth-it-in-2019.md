@@ -6,7 +6,7 @@ category: Opinion
 published: true
 ---
 
-<h1>{{ post.title }}</h1>
+<h1>{{ page.title }}</h1>
 ![Wii U Console](/assets/img/Wii_U_640px.png)
 
 The Wii U was released all the way back in 2012. The Nintendo Switch was released in 2017. Does it make sense, now in 2019, to get a Nintendo Wii U?

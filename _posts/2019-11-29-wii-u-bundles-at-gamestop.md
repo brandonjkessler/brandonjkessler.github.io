@@ -6,7 +6,7 @@ category: News
 published: true
 ---
 
-<h1>{{ post.title }}</h1>
+<h1>{{ page.title }}</h1>
 ![Wii U Console](/assets/img/Wii_U_640px.png)
 
 Today is Black Friday, and we all know that means there are Deals to be had!
