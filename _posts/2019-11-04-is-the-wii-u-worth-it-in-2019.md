@@ -3,6 +3,8 @@ layout: post
 title: Is the Wii U worth it in 2019
 excerpt_separator: <!--more-->
 Author: Brandon J. Kessler
+tags: Games Hardware Nintendo Technology
+category: Opinion
 ---
 
 ![Wii U Console](/assets/Wii_U_640px.png)
