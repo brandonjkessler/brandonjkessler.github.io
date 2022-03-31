@@ -8,7 +8,7 @@ Migrating from a full WordPress site to a static site. [BrandonJKessler.com](htt
 
 {% for post in site.posts %}
     {% if post.excerpt %}
-        <h3>{{ post.title }}</h3>
+        ### {{ post.title }}
         {{ post.excerpt }}
     {% endif %}
 {% endfor %}
