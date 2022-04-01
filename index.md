@@ -8,6 +8,7 @@ Migrating from a full WordPress site to a static site. [BrandonJKessler.com](htt
     <li>
       <a href="{{ post.url }}">Read More</a>
       {{ post.excerpt }}
+      <hr>
     </li>
   {% endfor %}
 </ul>
