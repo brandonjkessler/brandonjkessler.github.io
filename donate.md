@@ -3,12 +3,10 @@ title: Donations
 permalink: "donate.html"
 ---
 
-<nav>
+<nav id="main-nav">
 <ul>
-    {% assign pages = site.pages %}
-    {% for page in pages %}
-        <li><a href="{{page.url}}">{{page.title}}</a></li>
-    {% endfor %}
+    <li><a href="index.html">Home</a></li>
+    <li><a href="donate.html">Donate</a></li>
 </ul>
 </nav>
 
