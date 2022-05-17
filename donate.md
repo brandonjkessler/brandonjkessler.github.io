@@ -1,3 +1,10 @@
+<nav>
+{% assign pages = site.pages %}
+{% for page in pages %}
+  <li><a href="{{page.url}}">{{page.title}}</a></li>
+{% endfor %}
+</nav>
+
 ## Donations
 
 If you appreciate what I provide on my github page or if you find my blog useful please buy me some caffeine!
