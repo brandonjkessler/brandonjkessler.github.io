@@ -1,3 +1,8 @@
+---
+title: Donations
+permalink: "donate.html"
+---
+
 <nav>
 {% assign pages = site.pages %}
 {% for page in pages %}

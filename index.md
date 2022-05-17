@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: "index.html"
+---
+
 <nav>
 {% assign pages = site.pages %}
 {% for page in pages %}
