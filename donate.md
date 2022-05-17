@@ -35,3 +35,6 @@ title:'PayPal - The safer, easier way to pay online!',
 
 ### Crypto
 
+- Basic Attention Token (BAT): 0xc039A501461CFF81F509239f5De5186005DF22a9
+- Ethereum (ETH): 0xCBBd220B2A080BF06646a2C430eb6Aa86b2Ea5ad
+- Bitcoin (BTC): 16w32EvMCMAV9kzTeEd1fj8R9UpSyeFW7G 
