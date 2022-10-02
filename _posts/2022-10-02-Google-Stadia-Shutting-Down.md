@@ -3,7 +3,7 @@ title: Google Stadia Shutting Down
 Author: Brandon J. Kessler
 tags: Gaming Google Stadia Opinion
 categories: Technology Gaming Opinion
-published: false
+published: true
 ---
 
 <h1>{{ page.title }}</h1>
