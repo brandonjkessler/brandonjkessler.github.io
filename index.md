@@ -10,7 +10,7 @@ permalink: "index.html"
 </ul>
 </nav>
 
-## Posts
+# Posts
 
 <div>
   {% for post in site.posts %}
