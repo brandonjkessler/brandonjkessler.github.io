@@ -20,9 +20,6 @@ permalink: "index.html"
       <hr>
       {{ post.excerpt }}
       <a href="{{ post.url }}" target="_blank">Read More</a>
-      <hr>
-      <p>End Post</p>
-      <hr>
     </div>
   {% endfor %}
 </div>
