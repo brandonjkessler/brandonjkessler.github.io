@@ -46,4 +46,4 @@ I've briefly outlined what each tool will be used for above. In the next few pos
 
 # Building My Second Brain Series
 
-Part 1
+1. [Part 1]({% post_url 2022-11-27-building-my-second-brain-part-1 %})
