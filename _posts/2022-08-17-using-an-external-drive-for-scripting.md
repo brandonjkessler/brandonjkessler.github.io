@@ -2,7 +2,7 @@
 title: Use an External Drive for Saving Scripts
 Author: Brandon J. Kessler
 tags: Software DevOps Productivity
-categories: Technology Opinion
+categories: Technology
 published: true
 ---
 

@@ -2,7 +2,7 @@
 title: Why I Base Tech on Parental Controls
 Author: Brandon J. Kessler
 tags: Software Personal Opinion
-categories: Technology Opinion
+categories: Technology
 published: true
 ---
 

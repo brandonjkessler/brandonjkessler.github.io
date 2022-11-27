@@ -2,7 +2,7 @@
 title: Why You Should Learn Markdown
 Author: Brandon J. Kessler
 tags: Software DevOps Productivity
-categories: Technology Opinion
+categories: Technology
 published: true
 ---
 

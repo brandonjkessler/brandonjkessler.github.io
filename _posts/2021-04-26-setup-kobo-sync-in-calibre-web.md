@@ -2,7 +2,7 @@
 title: Setup Kobo Sync in Calibre-Web
 Author: Brandon J. Kessler
 tags: Self-Host Kobo eBook Software
-categories: Technology Homelab
+categories: Technology
 published: true
 ---
 
