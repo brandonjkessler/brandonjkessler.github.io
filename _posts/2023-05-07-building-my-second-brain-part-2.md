@@ -7,7 +7,6 @@ published: true
 ---
 
 <h1>{{ page.title }}</h1>
-# Building My Second Brain Part 2
 
 Previously I had mentioned these 4 tools as being essential for My Second Brain: Google Keep, Google Docs, Google Calendar, and Google Tasks. Since writing Part 1, I have tinkered with and used those tools in my “Production” Second Brain and discovered I don’t need one of the tools. I have also been reading more of Building a Second Brain by Tiago Forte and learned about [Progressive Summarization](https://fortelabs.com/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/). After reading about and using Progressive Summarization that solidified the removal of the tool in question
 
