@@ -29,5 +29,5 @@ Because even with deconverging there's ways to get sidetracked with a smartphone
 
 I also realize our entire society has changed and evolved to require a smartphone or tablet of some sort to function. 2FA apps, banking, resturaunts, and many others I can't even think of, all require smartphones. Sometimes there are alternatives, but there are enough occasions where I don't think you can remove your smartphone from your life completely, without major sacrifices. As a parent, I know I can't simply because of all the digital parental controls that I need access to. So with the goal in mind not to <em>eliminate<em> your smartphone, but instead remove as much dependence as possible from it, I hope to explore those options in the next year over multiple posts.
 
-<h2>Conclusion<h2>
+<h2>Conclusion</h2>
 If you find yourself reaching for your smartphone instinctively, or if you feel like you could be more productive at home or at work, or want to be more present in the moment but find it hard, I hope you'll read this series and at least see what's working for me. There's no "one-size-fits-all" solution to any of these problems, but I hope that you'll find some ideas and inspiration.
