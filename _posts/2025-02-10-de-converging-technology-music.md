@@ -3,7 +3,7 @@ title: De-Converging Technology - Music
 Author: Brandon J. Kessler
 tags: technology oppinion productivity
 categories: productivity
-published: false
+published: true
 ---
 
 <h1>{{ page.title }}</h1>
@@ -43,3 +43,5 @@ This brings me to the happy middle ground. I think there's a place for streaming
 
 ## Conclusion
 It's not a perfect solution. Not everyone wants to get an old iPod or use iTunes, but there are other MP3 players from the likes of FiiO and even Sony that are higher-end players that have MicroSD expansion and charge using USB-C. Most of them have some form of Android and can even stream YouTube Music, Spotify, Tidal, etc. Those might be a better solution than an old iPod, but there is a much steeper cost to those devices vs an old iPod. It has helped, though, to cut down on my own distractions from my smartphone and has showed me that I am able to check another box off the "Don't-Need-Smartphone" list.
+
+If you find that you work better with music but don't want to break your flow-state or want to lessen your dependence on a smartphone, I highly recommend a dedicated music player. Get a decent set of ear buds or over the ear headphones and you may be surprised by how much it helps.
