@@ -3,7 +3,7 @@ title: De-Converging Technology - Reading
 Author: Brandon J. Kessler
 tags: technology opinion productivity
 categories: productivity
-published: false
+published: true
 ---
 
 <h1>{{ page.title }}</h1>
