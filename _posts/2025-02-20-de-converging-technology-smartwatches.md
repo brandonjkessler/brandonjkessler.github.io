@@ -1,7 +1,7 @@
 ---
 title: De-Converging Technology - Smart watches
 Author: Brandon J. Kessler
-tags: technology oppinion productivity
+tags: technology opinion productivity
 categories: productivity
 published: true
 ---
