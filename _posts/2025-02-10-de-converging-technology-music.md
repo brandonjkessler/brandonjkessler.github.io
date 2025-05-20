@@ -11,11 +11,9 @@ published: true
 <h2>What is De-converging</h2>
 For the full introduction, check out the previous post [De-converging Technology - Introduction]({% link _posts/2025-02-02-de-converging-technology-introduction.md %}). This is part of an ongoing ramblings about my attempt to start deconverging my technology.
 
-De-converging, or de-convergence, is the opposite of converging or convergence. It's a made-up word. The gist, the feeling, is that it's breaking apart these bits of technology that we've melded together for convenience. Western society, and much of the world from what I gather, is constantly aiming to make the technology we use more convenient and do more and more functions, i.e. the smart phone. There are many benefits to this convenience and convergence, but there are also many unforeseen consequences.
-
-<!--more-->
 
 One of the greatest challenges of de-converging is that you need to figure out what functions of converged technology are most useful to you and that you actually do use on a regular basis that aren't bad for your mental health. For me one of the most used apps is YouTube Music, and so before I could even think about de-converging I needed to make sure that I could still listen to music if I had a dumb-phone.
+<!--more-->
 
 ## The joy of music streaming
 Music streaming is equal parts amazing and terrible. On one hand, you have millions of tracks you can listen to from hundreds of thousands of artists from all around the globe. You have genres of music that are mashups of other genres, or deep sub-genres, or totally new genres. You can hear music from an artist that you may have never had the chance to listen to if not for the ease of access for streaming music.

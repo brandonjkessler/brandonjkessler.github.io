@@ -11,12 +11,10 @@ published: true
 <h2>What is De-converging</h2>
 For the full introduction, check out the previous post [De-converging Technology - Introduction]({% link _posts/2025-02-02-de-converging-technology-introduction.md %}). This is part of an ongoing ramblings about my attempt to start deconverging my technology.
 
-De-converging, or de-convergence, is the opposite of converging or convergence. It's a made-up word. The gist, the feeling, is that it's breaking apart these bits of technology that we've melded together for convenience. Western society, and much of the world from what I gather, is constantly aiming to make the technology we use more convenient and do more and more functions, i.e. the smart phone. There are many benefits to this convenience and convergence, but there are also many unforeseen consequences.
-
-<!--more-->
 
 Unlike the previous entry smart watches are unlikely to be as difficult of an item for most folks to deconverge from, HOWEVER, I do think that removing them from your technology toolbox has a greater and outsized benefit versus using them. I am also speaking from a position of not having a health need for one. So if you find that your smart watch's health features are necessary that's perfectly okay. The key to thise whole series is for me to figure out how to be more mindful of my technology use.
 
+<!--more-->
 ## What's so smart about a Smart Watch?
 Smart watches are interesting because as a watch they're...fine. They tell the time. You can set alarms with them. You can use them for stop watches and timers. But their battery life is pretty terrible compared to an old school cheap Timex, so what makes them so special? Apps. The answer is always apps. You can control your music from your smartwatch, but you can also stream music straight from your watch in many instances. You can take notes from your watch, answer texts and chats, even check your calendar. And of course all of the health apps. Track your steps, your breathing, your heart rate, your elevation, your excercises, everything! You also get all your notifications conveniently on your wrist so you don't have to pull out your phone.
 
