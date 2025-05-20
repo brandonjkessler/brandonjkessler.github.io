@@ -9,13 +9,11 @@ published: true
 <h1>{{ page.title }}</h1>
 
 <h2>What is De-converging</h2>
-For the full introduction, check out the previous post [De-converging Technology - Introduction]({% link _posts/2025-02-02-de-converging-technology-introduction.md %}). 
-
-De-converging, or de-convergence, is the opposite of converging or convergence. It's a made-up word. The gist, the feeling, is that it's breaking apart these bits of technology that we've melded together for convenience. Western society, and much of the world from what I gather, is constantly aiming to make the technology we use more convenient and do more and more functions, i.e. the smart phone. There are many benefits to this convenience and convergence, but there are also many unforeseen consequences.
-
-<!--more-->
+For the full introduction, check out the previous post [De-converging Technology - Introduction]({% link _posts/2025-02-02-de-converging-technology-introduction.md %}). This is part of an ongoing ramblings about my attempt to start deconverging my technology.
 
 I thought it was time to do some follow-ups on my deconverging journey. In my post [De-Converging Technology - Music]({% _posts/2025-02-10-de-converging-technology-music.md %}) I discussed how I switched to using an iPod for most of my music listening in place of always using streaming. I got to reap the benefits of my experiment recently when I traveled to go see my father and help him on the farm. It's a day trip to get to his house and so some for of music is necessary. Normally I have to make sure that music playlists are downloaded in YouTube Music or Spotify before it, and hope that it just works.
+
+<!--more-->
 
 ## Traveling
 This trip I started out using some YouTube Music just to have some newer things playing, and about an hour into my drive YT Music crashed. Note that I'm using a Pixel 7, so it's not like the phone is old or completely incapable. Closing the app and attempting to relaunch the app failed in getting me any music. Instead of having to fiddle with it and be a danger on the road, I plugged my iPod into the aux cable I have connected to the car, spun to "Shuffle Songs" and let it play. Just like that, music. No app to mess with, no need to worry about if the songs actually downloaded to storage, nothing. The only thing I have to worry about the iPod is if it has enough battery, especially after FlashModding it with 64GB of flash storage.
