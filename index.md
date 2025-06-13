@@ -16,8 +16,6 @@ permalink: "index.html"
   {% for post in site.posts %}
     <div>
       <hr>
-      <p>Begin Post</p>
-      <hr>
       {{ post.excerpt }}
       <a href="{{ post.url }}" target="_blank">Read More</a>
     </div>
