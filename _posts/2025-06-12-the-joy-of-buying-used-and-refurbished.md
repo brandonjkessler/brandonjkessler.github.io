@@ -3,7 +3,7 @@ title: The Joy of Buying Used and Refurbished
 Author: Brandon J. Kessler
 tags: technology opinion
 categories: opinion
-published: false
+published: true
 ---
 
 <h1>{{ page.title }}</h1>
