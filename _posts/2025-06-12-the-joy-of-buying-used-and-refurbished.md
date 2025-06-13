@@ -6,6 +6,8 @@ categories: opinion
 published: true
 ---
 
+[Home]({% link index.md %})
+
 <h1>{{ page.title }}</h1>
 
 Working in IT has been great for interacting with and/or learning new technologies. It also generally means I follow or watch influencers on YouTube that review the newest computers, game consoles, linux distros, or cool DIY-ish widget that solves some niche issue. And in doing that, and having been in a tech or tech-related field for so long, you lose sight of the "good enough" in tech and always want the next best thing. You want the newest GPU, or the next cool mechanical keyboard, or the latest handheld-emulator. And at some point you have lost site of what technology is _supposed_ to be.

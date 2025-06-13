@@ -5,6 +5,7 @@ tags: technology opinion productivity
 categories: productivity
 published: true
 ---
+[Home]({% link index.md %})
 
 <h1>{{ page.title }}</h1>
 
