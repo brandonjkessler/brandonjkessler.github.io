@@ -6,12 +6,7 @@ categories:
 published: false
 ---
 
-<nav id="main-nav">
-<ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="donate.html">Donate</a></li>
-</ul>
-</nav>
+[Home]({% link index.md %})
 
 <h1>{{ page.title }}</h1>
 
