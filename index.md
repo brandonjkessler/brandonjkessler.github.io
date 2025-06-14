@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: "index.html"
+layout: home
 ---
 
 <nav id="main-nav">
