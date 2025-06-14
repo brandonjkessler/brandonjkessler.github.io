@@ -6,13 +6,14 @@ categories: opinion
 published: true
 ---
 
+
 [Home]({% link index.md %})
 
 <h1>{{ page.title }}</h1>
 
 Working in IT has been great for interacting with and/or learning new technologies. It also generally means I follow or watch influencers on YouTube that review the newest computers, game consoles, linux distros, or cool DIY-ish widget that solves some niche issue. And in doing that, and having been in a tech or tech-related field for so long, you lose sight of the "good enough" in tech and always want the next best thing. You want the newest GPU, or the next cool mechanical keyboard, or the latest handheld-emulator. And at some point you have lost site of what technology is _supposed_ to be.
 
-<!-- More -->
+<!--more-->
 
 <h2>The Function of Technology</h2>
 Part of my recent foray into my [De-Converging Technology series]({% _posts/2025-02-02-de-converging-technology-introduction.md %}) has really helped me reevaluate what technology is supposed to be and how I have previously interacted with it, and continue to interact with it. Technology, at it's basic components, is a tool that is supposed to enrich our lives. Each piece of technology that I use needs to be intentional and useful again, much like a drill or hammer. De-converging my smartphone and using purpose-built tools for some of those functions has really solidified that idea in my life. The problem is that, like anything, technology has become not only a commodity, but a status symbol, too. Technology in the modern USA has become an end unto itself, instead of the means to an end.
