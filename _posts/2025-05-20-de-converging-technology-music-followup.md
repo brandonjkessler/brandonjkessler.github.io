@@ -11,7 +11,7 @@ published: true
 <h2>What is De-converging</h2>
 For the full introduction, check out the previous post [De-converging Technology - Introduction]({% post_url 2025-02-02-de-converging-technology-introduction %}). This is part of an ongoing ramblings about my attempt to start deconverging my technology.
 
-I thought it was time to do some follow-ups on my deconverging journey. In my post [De-Converging Technology - Music]({% _posts/2025-02-10-de-converging-technology-music.md %}) I discussed how I switched to using an iPod for most of my music listening in place of always using streaming. I got to reap the benefits of my experiment recently when I traveled to go see my father and help him on the farm. It's a day trip to get to his house and so some for of music is necessary. Normally I have to make sure that music playlists are downloaded in YouTube Music or Spotify before it, and hope that it just works.
+I thought it was time to do some follow-ups on my deconverging journey. In my post [De-Converging Technology - Music]({% post_url 2025-02-10-de-converging-technology-music %}) I discussed how I switched to using an iPod for most of my music listening in place of always using streaming. I got to reap the benefits of my experiment recently when I traveled to go see my father and help him on the farm. It's a day trip to get to his house and so some for of music is necessary. Normally I have to make sure that music playlists are downloaded in YouTube Music or Spotify before it, and hope that it just works.
 
 <!--more-->
 
