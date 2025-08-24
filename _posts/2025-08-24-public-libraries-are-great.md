@@ -6,7 +6,6 @@ categories: opinion
 published: true
 ---
 
-[Home]({% link index.md %})
 
 <h1>{{ page.title }}</h1>
 
@@ -29,3 +28,5 @@ As mentioned before, there's more than books and movies at the libraries. There'
 
 ## Conclusion
 I'm sure I don't need to convice most folks that the library is great, but it's nice to be reminded why they're great, and maybe that you should go and check yours out again if it's been a while. Check out a book or a movie or a cd. Pull a magazine off the rack and sit and read for a moment. Slice out some time in the day to just exist outside your home.
+
+[Home]({% link index.md %})
