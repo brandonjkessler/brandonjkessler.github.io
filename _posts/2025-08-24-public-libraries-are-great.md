@@ -6,8 +6,6 @@ categories: opinion
 published: false
 ---
 
-[Home]({% link index.md %})
-
 <h1>{{ page.title }}</h1>
 
 I love the public library. I am lucky enough to live in a city that has quite a few libraries and one is less than a 5 minute drive away. It's been renovated recently, so it has a modern design language, the book shelves are well spaced apart, and it has enough flat surfaces to set a laptop, and a few with built in outlets for charging. It has a little recording studio, a maker space with sewing and 3D printing, and dedicated rooms for reservation. It has a children's section and public-use computer section. You can get paperbooks, magazines, DVDs, CDs, and even video games. Best of all, the public library is one of the last remaining places where you are not required to purchase something just to exist in that space.
