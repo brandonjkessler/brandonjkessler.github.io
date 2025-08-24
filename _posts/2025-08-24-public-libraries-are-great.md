@@ -3,8 +3,10 @@ title: Public Libraries are Great
 Author: Brandon J. Kessler
 tags: 
 categories: opinion
-published: false
+published: true
 ---
+
+[Home]({% link index.md %})
 
 <h1>{{ page.title }}</h1>
 
