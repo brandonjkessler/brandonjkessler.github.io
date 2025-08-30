@@ -34,7 +34,15 @@ This is a pretty short section since if you've ever installed Ubuntu nothing her
 ![](../assets/screenshots/anduinos_review/anduinos_install_14.png)
 
 ## Basic Layout
+The basic layout of AnduinOS is heavily inspired by Windows 11, with the taskbar at the bottom, the notification center is on the bottom right along with the date and clock, and the start menu is to the left of the icons on the taskbar. There's even the weather widget that sits to the far left. There's a customized icon set, Fluent, that helps unify a lot of the system, and little touches to blur the shell. Pressing the "start" button reveals the start menu with an "All Apps" arrow up top, your pinned apps, and below that a frequent apps. On the very bottom of the window is your username, which will take you to settings for your user account, and then Files, Console, and Settings shortcuts, along with shutdown shortcuts.
 
+![](../assets/screenshots/anduinos_review/anduinos_desktopcustomized_1.png)
+![](../assets/screenshots/anduinos_review/anduinos_startmenucustomized_1.png)
+![](../assets/screenshots/anduinos_review/anduinos_startmenu_allapps_1.png)
+
+Even though it looks very similar to Windows it is not like Winux or Lindows or Wubuntu or whatever in which it tries to emulate the entire OS visually, too. AnduinOS strikes a good balance of emulating the layout and workflow of Windows, without being exactly like Windows. I also use Windows daily at work, and when I was using MacOS as my daily driver, had to context switch from work to personal or personal to work. With AnduinOS, however, the general layout is similar enough that there's not much context switching, but it's also different enough that I don't mistakenly try to run Windows commands or use it like I would windows. I think this, like ZorinOS, is the better way to do it. Keeping the layout but reminding users it's _not_ Windows will lead to fewer frustrations.
+
+That being said, if you don't like the windows layout, you probably won't like this one either. I might be a heretic, but I actually like the taskbar icons and start button in the center, especially with dual monitors or ultra-wides. I'm not mousing as far to get to where I need to be. 
 
 ## Using Day-to-Day
 #-- TODO: discuss the day-to-day usage
